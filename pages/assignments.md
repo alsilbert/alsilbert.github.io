@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results](https://alsilbert.github.io/Assignments/HW1_ArielSilbert.ipynb)| [assignment1 repositiory](https://alsilbert.github.io/Assignments/data/HW1)
+[assignment1 results](https://alsilbert.github.io/Assignments/HW1_ArielSilbert.ipynb)| [assignment1 repositiory](https://alsilbert.github.io/Assignments/data)
 
 ---
 
@@ -54,7 +54,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results](https://alsilbert.github.io/Assignments/HW1_ArielSilbert.ipynb)| [assignment2 repositiory](https://alsilbert.github.io/Assignments/data/HW2)|
+| [assignment2 results](https://alsilbert.github.io/Assignments/HW1_ArielSilbert.ipynb)| [assignment2 repositiory](https://alsilbert.github.io/Assignments/data)|
 
 ---
 
