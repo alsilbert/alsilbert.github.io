@@ -54,7 +54,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results](https://alsilbert.github.io/Assignments/HW1_ArielSilbert.ipynb)| [assignment2 repositiory](https://alsilbert.github.io/Assignments/data)|
+| [assignment2 results](https://alsilbert.github.io/Assignments/HW1_ArielSilbert.ipynb)| [assignment2 repositiory](https://github.com/alsilbert/alsilbert.github.io/tree/master/Assignments/data/HW1)|
 
 ---
 
