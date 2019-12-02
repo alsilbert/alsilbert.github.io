@@ -44,7 +44,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [Assignment 3 results]()| [Assignment 3 repositiory]()|
+| [Assignment 3 results](https://alsilbert.github.io/Assignments/HW3_ArielSilbert.ipynb)| [Assignment 3 repositiory](https://github.com/alsilbert/alsilbert.github.io/tree/master/Assignments/data/HW2)|
 
 ---
 
@@ -54,8 +54,8 @@ Results | Repository
 ##### <a name="networkanalysis"></a>Data science process, "Big Data," visualization, and interpreting and communicating results in a portfolio
 
 
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [Assignment 4 results]()| [Assignment 4 repositiory]()|
+| Results                |
+| ---------------------- |
+| [Assignment 4 results](https://alsilbert.github.io/)|
 
 ---
