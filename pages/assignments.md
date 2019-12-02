@@ -18,7 +18,7 @@ description: Ariel Silbert's Completed Assignments
 
 
 ### EMSE 6992 Assignments
-####  <a name="Assignment 1"></a>Assignment1
+####  <a name="Assignment 1"></a>Assignment 1
 ##### <a name="datamanipulationandaggregation"></a>Creating a portfolio: Intro to Github, Python, and EDA
 
 Results | Repository
@@ -28,7 +28,7 @@ Results | Repository
 ---
 
 
-####  <a name="Assignment 2"></a>Assignment2
+####  <a name="Assignment 2"></a>Assignment 2
 ##### <a name="scientificcomputing"></a>Data Analysis, statistical inference, and visualizations
 
 | Results                | Repository                 |
@@ -38,7 +38,7 @@ Results | Repository
 ---
 
 
-####  <a name="Assignment 3"></a>Assignment3
+####  <a name="Assignment 3"></a>Assignment 3
 ##### <a name="deeplearning"></a>Machine learning
 
 
@@ -50,7 +50,7 @@ Results | Repository
 
 
 
-####  <a name="Assignment 4"></a>Assignment4
+####  <a name="Assignment 4"></a>Assignment 4
 ##### <a name="networkanalysis"></a>Data science process, "Big Data," visualization, and interpreting and communicating results in a portfolio
 
 
