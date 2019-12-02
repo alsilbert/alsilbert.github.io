@@ -17,7 +17,7 @@ description: Student's Presentations in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; Slides:
 [![pdf document](icons16/pdf-icon.png)](https://alsilbert.github.io/Assignments/FinalPaper_EMSE6992.pdf)
 [![pdf presentation](icons16/pdf-icon.png)](https://alsilbert.github.io/Assignments/FinalPresentation_EMSE6992.pdf)
-[![github](icons16/github-icon.png)]()<br/>
+[![github](icons16/github-icon.png)](https://alsilbert.github.io/Assignments)<br/>
 &nbsp; &nbsp; &nbsp;
 
 ---
