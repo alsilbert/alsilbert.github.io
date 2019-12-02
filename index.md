@@ -19,8 +19,8 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/ALS_pics/2d_kmeans_num.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/ALS_pics/2d_kmeans_num.html">
+        <img src="assets/ALS_pics/2d_kmeans_num.png" alt="2D k-means example" title="2D k-means example"/>
     </a>
   </td>
   <td class="right">
