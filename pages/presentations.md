@@ -19,7 +19,7 @@ description: Student's Presentations in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; Paper:
 [![pdf document](icons16/pdf-icon.png)](https://alsilbert.github.io/Assignments/FinalPaper_EMSE6992.pdf)
 &nbsp; &nbsp; &nbsp;
-<br/>&nbsp; &nbsp; &nbsp; Jupyter Notebook:
+<br/>&nbsp; &nbsp; &nbsp;
 [Jupyter notebook](https://alsilbert.github.io/Assignments/FinalProject_ArielSilbert.ipynb)
 &nbsp; &nbsp; &nbsp;
 
