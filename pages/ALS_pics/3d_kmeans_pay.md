@@ -12,21 +12,10 @@ title: 3D K-Means Clustering
   </div>
 </div>
 
-Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
-Broman KW. The dissection of expression quantitative trait locus
-hotspots. [Genetics](http://genetics.org), to appear
-[![Abstract](../icons16/pubmed-icon.png)](http://arxiv.org/abs/1510.02863)
-[![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_wsupp.pdf)
-[![supplement](../icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
-[![data](../icons16/data-icon.png)](http://bit.ly/B6BTBR)
-[![qtlpvl software](../icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
-
+[K means clustering](https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_iris.html) is shown in this example from the scikitlearn documentation. <br/>
 
 ![3D K-Means Clustering](../../assets/ALS_pics/3d_kmeans_pay.png)
 
-**Figure 4**. &mdash; Scatterplots of the first two linear
-discriminants for the trans-eQTL hotspot on chromosome 10, here
-considering three tissues: adipose, kidney, and liver. Points
-correspond to mice, and they are colored according to their two-locus
-genotypes, for the inferred two QTL model, with one locus at 48 cM and
-the other at 54 cM.
+K-means clustering was used to assess if STEM occupations cluster in a way to subvert or heavily influence the trend of men being paid more than women. The STEM occupations are in yellow and the non-STEM purple. However, from this three-dimensional graph, it is hard to see how much the STEM occupation data clusters.
+
+The data for this analysis came from [“ACS 5-Year Estimates - Public Use Microdata Sample” for 2017 from the US Census Bureau](https://data.census.gov/mdat/#/) and from [Occupational Employment Statistics from the Bureau of Labor Statistics](https://www.bls.gov/oes/topics.htm#stem)
