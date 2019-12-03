@@ -19,7 +19,7 @@ description: Student's Courses
 
 - [Site](https://alsilbert.github.io/)
 - [My Portfolio](https://alsilbert.github.io/)
-- [Assignments](https://github.com/alsilbert/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
+- [Assignments](https://alsilbert.github.io/pages/assignments.html)
 
 ---
 
