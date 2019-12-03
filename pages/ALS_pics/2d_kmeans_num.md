@@ -14,9 +14,8 @@ title: 2D K-Means Clustering
 
 [K means clustering](https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_iris.html) is shown in this example from the scikitlearn documentation. <br/>
 
-[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
+![2D K-Means Clustering example](../../assets/ALS_pics/2d_kmeans_num.png)
 
-Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
-from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation
-matrix; click a pixel and the corresponding scatterplot is shown on
-the right.
+K-means clustering was used to assess if STEM occupations cluster in a way to subvert or heavily influence the trend of men being paid more than women. The STEM occupations are in yellow and the non-STEM purple. Here, the only thing that is apparent is that there is a greater number of men than women in the STEM occupations.
+
+The data for this analysis came from [“ACS 5-Year Estimates - Public Use Microdata Sample” for 2017 from the US Census Bureau](https://data.census.gov/mdat/#/) and from [Occupational Employment Statistics from the Bureau of Labor Statistics](https://www.bls.gov/oes/topics.htm#stem)
