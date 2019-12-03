@@ -7,7 +7,7 @@ title: 3D K-Means Clustering
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="2d_kmeans_num.html">prev</a></li>
-          <li><a href="samplemixups_fig7.html">next</a></li>
+          <li><a href="Norm_hist.html">next</a></li>
       </ul>
   </div>
 </div>
