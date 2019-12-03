@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: R/qtlcharts example
+title: 2D K-Means Clustering
 ---
 
 <div class="navbar">
