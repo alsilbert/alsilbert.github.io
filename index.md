@@ -24,21 +24,20 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/ALS_pics/3d_kmeans_pay.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/ALS_pics/3d_kmeans_pay.html">
+        <img src="assets/ALS_pics/3d_kmeans_pay.png" alt="3D k-means example" title="3D k-means example"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/ALS_pics/Norm_hist.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/ALS_pics/Norm_hist.html">
+        <img src="assets/ALS_pics/Norm_hist.png" alt="histogram example" title="histogram example"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/ALS_pics/Full_SPLOM.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/ALS_pics/Full_SPLOM.html">
+        <img src="assets/ALS_pics/Full_SPLOM.png" alt="SPLOM example" title="SPLOM example"/>
     </a>
   </td>
 </tr>
