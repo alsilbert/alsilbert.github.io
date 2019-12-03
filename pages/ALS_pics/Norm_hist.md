@@ -7,7 +7,7 @@ title: Normalized Wage and Number Histogram
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="3d_kmeans_pay.html">prev</a></li>
-          <li><a href="isletc6_fig4.html">next</a></li>
+          <li><a href="Full_SPLOM.html">next</a></li>
       </ul>
   </div>
 </div>
